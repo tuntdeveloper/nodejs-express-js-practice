@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "baseUrl": "src",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "target": "ES5",
+        "outDir": "out",
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
